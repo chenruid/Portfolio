@@ -15,8 +15,8 @@
 
 ### Game Development
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+[Jump Jump](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 

@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Research and Project  
 
 [PlayerCartographyStudy](/pdf/PlayerCartographyStudy_2022-09-21_1903.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[SovleAR](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

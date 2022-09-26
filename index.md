@@ -16,7 +16,7 @@
 ### Game Development
 
 [Jump Jump](https://github.com/chenruid/Jump-Jump)
-![](https://github.com/chenruid/Jump-Jump/blob/main/demo.gif)
+<img src="images/Jump.png?raw=true"/>
 
 ---
 

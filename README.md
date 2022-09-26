@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I have three works in my portfolio: a research on game maps, a project finding AR app design, and a mobile game development. 
+I have three works in my portfolio: a research on game maps, an object finding AR app design, and a mobile game development. 
 
 <img src="images/demo.gif?raw=true"/>
 

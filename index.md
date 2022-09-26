@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[PlayerCartographyStudy](/pdf/PlayerCartographyStudy_2022-09-21_1903.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

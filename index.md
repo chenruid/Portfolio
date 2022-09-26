@@ -5,7 +5,7 @@
 ### Research and Project  
 
 [PlayerCartographyStudy](/pdf/PlayerCartographyStudy_2022-09-21_1903.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PlayerCartography-logos.jpeg?raw=true"/>
 
 ---
 [SovleAR](https://github.com/chenruid/SolvAR-project)

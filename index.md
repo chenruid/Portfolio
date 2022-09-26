@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[SovleAR](https://rustyraptor.github.io/SolvAR-Documentation/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SovleAR](https://github.com/chenruid/SolvAR-project)
+<img src="images/SolvARLogo.png?raw=true"/>
 
 ---
 

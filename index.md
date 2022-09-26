@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[SovleAR](/pdf/sample_presentation.pdf)
+[SovleAR]((https://rustyraptor.github.io/SolvAR-Documentation/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

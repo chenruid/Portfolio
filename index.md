@@ -21,7 +21,7 @@
 ---
 
 [Maze in the Dungeon](https://chenruid.github.io/nmsu-dgd.github.io/2022-3/Maze-in-Dungeon/maze.html)
-<img src="images/Maze_0.jpeg?raw=true"/>
+<img src="images/maze_0.jpeg?raw=true"/>
 
 
 

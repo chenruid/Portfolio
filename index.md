@@ -4,6 +4,11 @@
 
 ### Research and Project  
 
+[DataAnalytics and MachineLeanring](/pdf/Report.pdf)
+<img src="images/Untitled design.png?raw=true"/>
+
+---
+
 [PlayerCartographyStudy](/pdf/PlayerCartographyStudy_2022-09-21_1903.pdf)
 <img src="images/PlayerCart.jpeg?raw=true"/>
 

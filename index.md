@@ -5,7 +5,7 @@
 ### Research and Project  
 
 [DataAnalytics and MachineLeanring](/pdf/Report.pdf)
-<img src="images/Untitled design.png?raw=true"/>
+<img src="images/Custom-dimensions-1910x1080-px-5-1.png?raw=true"/>
 
 ---
 
